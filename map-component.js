@@ -1,79 +1,38 @@
-import TooltipComponent from './tooltip-component.js'
-import SVGComponent from './svg-component.js'
+import TooltipComponent from "./tooltip-component.js";
+import SVGComponent from "./svg-component.js";
+import CustomSelect from "./select-component.js";
 
+// import * as _ from 'lodash'
 export default {
-	components: {
-		TooltipComponent, SVGComponent
-	},
+  components: {
+    TooltipComponent,
+    SVGComponent,
+    CustomSelect,
+  },
   data() {
     return {
-      edges: [
-        {
-          name: "Alcanar",
-          coordinates: [0.514695, 40.523108],
-          position: { x: 720, y: 987 }, // (2071 - 761)
-        },
-        {
-          name: "Cap de creus",
-          coordinates: [3.3222069, 42.319509],
-          position: { x: 1535, y: 274 }, // (2071 - 161)
-        },
-      ],
       tooltip: null,
-      cities: [
-        {
-          name: "alcanar",
-          comarca: "Montsià",
-          coordinates: [40.523108, 0.514695],
-        },
-        {
-          name: "creus",
-          comarca: "Alt Empordà",
-          coordinates: [42.319509, 3.3222069],
-        },
-        {
-          name: "SJA",
-          comarca: "Ripollès",
-          coordinates: [42.2351839, 2.2863717],
-        },
-        {
-          name: "Flix",
-          comarca: "Ribera d'Ebre",
-          coordinates: [41.2294022, 0.5366484],
-        },
-        {
-          name: "Palma de Mallorca",
-          comarca: "Palma",
-          coordinates: [39.5312096, 2.6231478],
-        },
-        {
-          name: "Vic",
-          comarca: "Osona",
-          coordinates: [41.9335941, 2.2387488],
-        },
-        {
-          name: "bcn",
-          comarca: "Barcelonés",
-          coordinates: [41.3903008, 2.2014871],
-        },
-        {
-          name: "sort",
-          comarca: "Pallars Sobirà",
-          coordinates: [42.4103922, 1.1266764],
-        },
-        {
-          name: "seuurgell",
-          comarca: "Alt Urgell",
-          coordinates: [42.3562398, 1.4512587],
-        },
-      ],
+      comarques: [],
+      comarca: 0,
+      municipis: [],
+      municipi: 0,
     };
   },
+  computed: {
+    comarquesSorted() {
+      return _.concat(
+        { id: 0, name: "-- Comarca --" },
+        _.orderBy(this.comarques, "name")
+      );
+    },
+    municipisSorted() {
+      return _.concat(
+        { id: 0, name: "-- Municipi --" },
+        _.orderBy(this.municipis, "name")
+      ); // .filter(m => m.comarca === this.comarca);
+    },
+  },
   mounted() {
-    var width = 1103.9,
-      height = 1190.6,
-      centered;
-
     var projection = d3
       .geoAugust()
       .center([0.204695, 41.523108])
@@ -92,20 +51,31 @@ export default {
     // .scale(9480)
     // .translate([ 360, 344 ])
 
-    // let geoGenerator = d3.geoPath().projection(projection);
-
     var svg = d3.select("body").select("svg");
     var g = svg.append("g");
 
-    // document.getElementById('main-div').addEventListener("click", (event) => this.tooltip = null);
-
-    // var path = d3.path()    .projection(projection);
-
-    d3.json("readme.json", (json) => {
+    d3.json("cities.json", (json) => {
       console.log("json", json);
 
       json.features.forEach((f, i) => {
-        console.log("f", f.geometry.coordinates);
+        console.log("f", f);
+        if (!this.comarques.find((c) => c.name === f.properties.comarca)) {
+          this.comarques.push({ id: i + 1, name: f.properties.comarca });
+        }
+        const comarcaId = this.comarques.find(
+          (c) => c.name === f.properties.comarca
+        ).id;
+        if (!this.municipis.find((c) => c.name === f.properties.name)) {
+          this.municipis.push({
+            id: i + 1,
+            name: f.properties.name,
+            comarca: comarcaId,
+          });
+        }
+
+        const municipiId = this.municipis.find(
+          (c) => c.name === f.properties.name
+        ).id;
 
         var latitude = f.geometry.coordinates[1];
         var longitude = f.geometry.coordinates[0];
@@ -115,9 +85,8 @@ export default {
           .attr("cx", coordinates[0])
           .attr("cy", coordinates[1])
           .attr("r", 3)
-          // .attr("stroke", "red")
           .attr("fill", "#232324")
-          .attr("class", "city")
+          .attr("class", `city comarca-${comarcaId} municipi-${municipiId}`)
           .attr("id", `city-${i}`);
 
         const cityPoint = document.getElementById(`city-${i}`);
@@ -133,7 +102,7 @@ export default {
       const tooltip = document.getElementById("tooltip");
       tooltip.style.position = "absolute";
       tooltip.style.left = event.pageX + "px";
-      tooltip.style.top = ( event.pageY + 20) + "px";
+      tooltip.style.top = event.pageY + 20 + "px";
       tooltip.style.visibility = "visible";
     },
     projection(coordinates) {
@@ -144,24 +113,75 @@ export default {
       return [p.x, p.y];
     },
     clickOnMap(event) {
-		console.log('clickOnMap')
+      console.log("clickOnMap");
       this.tooltip = null;
     },
     close() {
       this.tooltip = null;
     },
-    printMousePos(event) {
-      // const positions = { clientX: event.clientX, clientY: event.clientY };
-      // console.log("positions", positions);
-      // document.body.textContent =
-      //   "clientX: " + event.clientX +
-      //   " - clientY: " + event.clientY;
+    changeComarca(value) {
+      this.tooltip = null;      
+      this.comarca = value.id;
+      const selected = document.querySelectorAll(`.comarca-${value.id}`);
+      const cities = document.querySelectorAll(`.city`);
+      if (value.id > 0) {
+        cities.forEach((c) => {
+          c.classList.remove("active");
+          c.classList.add("inactive");
+        });
+        selected.forEach((c) => {
+          c.classList.add("active");
+        });
+      } else {
+        cities.forEach((c) => {
+          c.classList.remove("inactive");
+          c.classList.add("active");
+        });
+      }
+    },
+    changeCity(value) {
+      this.tooltip = null;
+      const selected = document.querySelectorAll(`.municipi-${value.id}`);
+      const cities = document.querySelectorAll(`.city`);
+      if (value.id > 0) {
+        cities.forEach((c) => {
+          c.classList.remove("active");
+          c.classList.add("inactive");
+        });
+        selected.forEach((c) => {
+          c.classList.add("active");
+        });
+      } else {
+        cities.forEach((c) => {
+          c.classList.remove("inactive");
+          c.classList.add("active");
+        });
+      }
     },
   },
   template: `
     <div>
-        <div class="svgs" id="main-div">
-            
+		<div class="header">
+		<h1>CERCADOR DE CANDIDATURES</h1>
+
+			<div class="selectors flex">
+				<CustomSelect
+				:options="comarquesSorted"
+				:default="'-- Comarca --'"
+				class="select"
+				@input="changeComarca" />
+
+				<CustomSelect
+				:options="municipisSorted"
+				:default="'-- Municipi --'"
+				class="select"
+				@input="changeCity" />
+				
+				
+			</div>
+		</div>
+	
+        <div class="svgs" id="main-div">            
         	<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 				viewBox="0 0 1103.9 1190.6" style="enable-background:new 0 0 1103.9 1190.6;" xml:space="preserve" preserveAspectRatio="none">
 			<style type="text/css">
