@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alcanar",
+        "comarca": "El Montsià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.514695, 40.523108]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cap de creus",
+        "comarca": "Alt Empordà"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.3222069, 42.319509]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palma de Mallorca",
+        "comarca": "Palma de Mallorca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.6231478, 39.5312096]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flix",
+        "comarca": "Ribera d'Ebre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.5366484, 41.2294022]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barcelona",
+        "comarca": "Barcelonès"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2014871, 41.3903008]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sant Joan de les Abadesses",
+        "comarca": "Ripollès"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2863717, 42.2351839]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vic",
+        "comarca": "Osona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2387488, 41.9335941]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sort",
+        "comarca": "Pallra Sobirà"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.1266764, 42.4103922]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Seu d'Urgell",
+        "comarca": "Alt d'Urgell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.4512587, 42.3562398]
+      }
+    }
+    
+  ]
+}
