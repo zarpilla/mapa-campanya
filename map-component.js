@@ -55,10 +55,10 @@ export default {
     var g = svg.append("g");
 
     d3.json("cities.json", (json) => {
-      console.log("json", json);
+      // console.log("json", json);
 
       json.features.forEach((f, i) => {
-        console.log("f", f);
+        // console.log("f", f);
         if (!this.comarques.find((c) => c.name === f.properties.comarca)) {
           this.comarques.push({ id: i + 1, name: f.properties.comarca });
         }
@@ -80,7 +80,7 @@ export default {
         var latitude = f.geometry.coordinates[1];
         var longitude = f.geometry.coordinates[0];
         var coordinates = projection([longitude, latitude]);
-        console.log("coordinates", coordinates);
+        // console.log("coordinates", coordinates);
         g.append("svg:circle")
           .attr("cx", coordinates[0])
           .attr("cy", coordinates[1])
@@ -113,7 +113,6 @@ export default {
       return [p.x, p.y];
     },
     clickOnMap(event) {
-      console.log("clickOnMap");
       this.tooltip = null;
     },
     close() {
@@ -183,12 +182,8 @@ export default {
 	
         <div class="svgs" id="main-div">            
         	<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-				viewBox="0 0 1103.9 1190.6" style="enable-background:new 0 0 1103.9 1190.6;" xml:space="preserve" preserveAspectRatio="none">
-			<style type="text/css">
-				.st0{fill:#FFDB00;}
-			</style>
-			<SVGComponent @click="clickOnMap"></SVGComponent>
-
+				viewBox="0 0 1103.9 1190.6" style="enable-background:new 0 0 1103.9 1190.6;" xml:space="preserve" preserveAspectRatio="none">			
+				<SVGComponent @click="clickOnMap"></SVGComponent>
 			</svg>
 			<TooltipComponent @close="clickOnMap" :tooltip="tooltip"></TooltipComponent>
         </div>

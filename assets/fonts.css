@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'TT Norms';
-    src: url('/assets/TTNorms-Bold.woff2') format('woff2'),
-        url('/assets/TTNorms-Bold.woff') format('woff');
+    src: url('./TTNorms-Bold.woff2') format('woff2'),
+        url('./TTNorms-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'TT Norms Bold';
-    src: url('TTNorms-ExtraBold.woff2') format('woff2'),
-        url('TTNorms-ExtraBold.woff') format('woff');
+    src: url('./TTNorms-ExtraBold.woff2') format('woff2'),
+        url('./TTNorms-ExtraBold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;

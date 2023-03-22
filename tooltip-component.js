@@ -1,9 +1,4 @@
-export default {
-  data() {
-    // return {
-    //   show: false,
-    // };
-  },
+export default {  
   props: {
     tooltip: null,
   },
