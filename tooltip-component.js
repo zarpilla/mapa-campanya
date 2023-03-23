@@ -20,7 +20,7 @@ export default {
 				<img class="logo-cup" src="./assets/LogoCUP.svg" />
 				
 				<div class="row" v-if="tooltip">
-					<div class="city-name">CUP {{ tooltip.properties.name }}</div>			
+					<div class="city-name">{{ tooltip.properties.candidatura || tooltip.properties.name }}</div>			
 					<a href="#" class="close" @click="$emit('close')"></a>
 					<div class="row">
 						<div class="flex social">
