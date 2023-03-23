@@ -15,7 +15,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [0.514695, 40.523108]
+        "coordinates": [
+          "0.514695",
+          "40.523108"
+        ]
       }
     },
     {
@@ -32,7 +35,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [3.3222069, 42.319509]
+        "coordinates": [
+          "3.3222069",
+          "42.319509"
+        ]
       }
     },
     {
@@ -49,14 +55,17 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.6231478, 39.5312096]
+        "coordinates": [
+          "2.6231478",
+          "39.5312096"
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Flix",
-        "comarca": "Ribera d'Ebre",
+        "comarca": "La Ribera d'Ebre",
         "twitter": "twitter",
         "instagram": "instagram",
         "facebook": "facebook",
@@ -66,7 +75,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [0.5366484, 41.2294022]
+        "coordinates": [
+          "0.5366484",
+          "41.2294022"
+        ]
       }
     },
     {
@@ -83,7 +95,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.2014871, 41.3903008]
+        "coordinates": [
+          "0.514695",
+          "41.3903008"
+        ]
       }
     },
     {
@@ -100,7 +115,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.2863717, 42.2351839]
+        "coordinates": [
+          "2.2863717",
+          "42.2351839"
+        ]
       }
     },
     {
@@ -117,7 +135,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.176043, 42.18974]
+        "coordinates": [
+          "2.176043",
+          "42.18974"
+        ]
       }
     },
     {
@@ -134,7 +155,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [2.2387488, 41.9335941]
+        "coordinates": [
+          "2.2387488",
+          "41.9335941"
+        ]
       }
     },
     {
@@ -151,14 +175,17 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [1.1266764, 42.4103922]
+        "coordinates": [
+          "1.1266764",
+          "42.4103922"
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "name": "La Seu d'Urgell",
-        "comarca": "Alt d'Urgell",
+        "comarca": "Alt Urgell",
         "twitter": "twitter",
         "instagram": "instagram",
         "facebook": "facebook",
@@ -168,7 +195,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [1.4512587, 42.3562398]
+        "coordinates": [
+          "1.4512587",
+          "42.3562398"
+        ]
       }
     }
   ]

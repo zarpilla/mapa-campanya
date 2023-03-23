@@ -138,11 +138,11 @@ h1{
   background-color: #fff;
   border: 0px solid #666666;
   color: #232324;
-  padding-left: 1em;
+  padding: 0 1em;
   cursor: pointer;
   user-select: none;
   text-transform: uppercase;
-  line-height: 37px;
+  line-height: 27px;
 }
 
 .custom-select .selected.open {
@@ -176,6 +176,8 @@ h1{
   padding-left: 1em;
   cursor: pointer;
   user-select: none;
+  line-height: 26px;
+  padding-bottom: 0.5rem;
 }
 
 .custom-select .items div:hover {
@@ -184,4 +186,38 @@ h1{
 
 .selectHide {
   display: none;
+}
+.json-builder {
+  margin: 2rem auto;
+  width: calc(100% - 4rem);
+}
+.textarea{
+  width: 100%;
+  margin: 1rem 0;
+  height: 150px;
+  border: 1px solid #999;
+}
+pre{
+  border: 1px solid #999;
+  width: 100%;
+  margin: 0rem 0;
+  height: 250px;
+  overflow: scroll;
+}
+.help{
+  white-space: pre-wrap
+}
+@media only screen and (max-width: 600px) {
+  h1 {
+    font-size: 26px;
+  }
+  .selectors {
+    display: block;
+  }
+  .custom-select{
+    max-width: 90%;
+  }
+  #tooltip{
+    width: calc(100% - 70px);
+  }
 }

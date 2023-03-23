@@ -21,13 +21,13 @@ export default {
   computed: {
     comarquesSorted() {
       return _.concat(
-        { id: 0, name: "-- Comarca --" },
+        { id: 0, name: "-Comarca-" },
         _.orderBy(this.comarques, "name")
       );
     },
     municipisSorted() {
       return _.concat(
-        { id: 0, name: "-- Municipi --" },
+        { id: 0, name: "-Municipi-" },
         _.orderBy(this.municipis, "name")
       ); // .filter(m => m.comarca === this.comarca);
     },
@@ -81,10 +81,11 @@ export default {
         var longitude = f.geometry.coordinates[0];
         var coordinates = projection([longitude, latitude]);
         // console.log("coordinates", coordinates);
+        console.log('window.innerWidth', window.innerWidth)
         g.append("svg:circle")
           .attr("cx", coordinates[0])
           .attr("cy", coordinates[1])
-          .attr("r", 3)
+          .attr("r", window.innerWidth > 800 ? 3 : 10)
           .attr("fill", "#232324")
           .attr("class", `city comarca-${comarcaId} municipi-${municipiId}`)
           .attr("id", `city-${i}`);
@@ -101,16 +102,15 @@ export default {
       this.tooltip = city;
       const tooltip = document.getElementById("tooltip");
       tooltip.style.position = "absolute";
-      tooltip.style.left = event.pageX + "px";
-      tooltip.style.top = event.pageY + 20 + "px";
+      if ( window.innerWidth > 800) {
+        tooltip.style.left = event.pageX + "px";
+        tooltip.style.top = event.pageY + 20 + "px";
+      } else {
+        tooltip.style.left = 20 + "px";
+        tooltip.style.top = "inherit";
+      }
+      
       tooltip.style.visibility = "visible";
-    },
-    projection(coordinates) {
-      const p = {
-        x: 290.29262529572895 * coordinates[1] + 570.5878372234148,
-        y: -396.9047000085179 * coordinates[0] + 17070.812024152772,
-      };
-      return [p.x, p.y];
     },
     clickOnMap(event) {
       this.tooltip = null;
@@ -166,13 +166,13 @@ export default {
 			<div class="selectors flex">
 				<CustomSelect
 				:options="comarquesSorted"
-				:default="'-- Comarca --'"
+				:default="'-Comarca-'"
 				class="select"
 				@input="changeComarca" />
 
 				<CustomSelect
 				:options="municipisSorted"
-				:default="'-- Municipi --'"
+				:default="'-Municipi-'"
 				class="select"
 				@input="changeCity" />
 				
