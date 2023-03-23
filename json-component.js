@@ -6,7 +6,7 @@ export default {
 Cap de creus;Alt Empordà;3.3222069;42.319509;twitter;instagram;facebook;telegram;youtube;web
 Palma de Mallorca;Palma de Mallorca;2.6231478;39.5312096;twitter;instagram;facebook;telegram;youtube;web
 Flix;La Ribera d'Ebre;0.5366484;41.2294022;twitter;instagram;facebook;telegram;youtube;web
-Barcelona;Barcelonès;0.514695;41.3903008;twitter;instagram;facebook;telegram;youtube;web
+Barcelona;Barcelonès;2.1954494;41.3905194;twitter;instagram;facebook;telegram;youtube;web
 Sant Joan de les Abadesses;Ripollès;2.2863717;42.2351839;twitter;instagram;facebook;telegram;youtube;web
 Ripoll;Ripollès;2.176043;42.18974;twitter;instagram;facebook;telegram;youtube;web
 Vic;Osona;2.2387488;41.9335941;twitter;instagram;facebook;telegram;youtube;web
