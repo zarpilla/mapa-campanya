@@ -2,16 +2,16 @@
 export default {
   data() {
     return {
-      csv: `Alcanar;El Montsià;0.514695;40.523108;twitter;instagram;facebook;telegram;youtube;web
-Cap de creus;Alt Empordà;3.3222069;42.319509;twitter;instagram;facebook;telegram;youtube;web
-Palma de Mallorca;Palma de Mallorca;2.6231478;39.5312096;twitter;instagram;facebook;telegram;youtube;web
-Flix;La Ribera d'Ebre;0.5366484;41.2294022;twitter;instagram;facebook;telegram;youtube;web
-Barcelona;Barcelonès;2.1954494;41.3905194;twitter;instagram;facebook;telegram;youtube;web
-Sant Joan de les Abadesses;Ripollès;2.2863717;42.2351839;twitter;instagram;facebook;telegram;youtube;web
-Ripoll;Ripollès;2.176043;42.18974;twitter;instagram;facebook;telegram;youtube;web
-Vic;Osona;2.2387488;41.9335941;twitter;instagram;facebook;telegram;youtube;web
-Sort;Pallars Sobirà;1.1266764;42.4103922;twitter;instagram;facebook;telegram;youtube;web
-La Seu d'Urgell;Alt Urgell;1.4512587;42.3562398;twitter;instagram;facebook;telegram;youtube;web`,
+      csv: `Alcanar;El Montsià;0.514695;40.523108;twitter;instagram;facebook;telegram;youtube;web;https://picsum.photos/324/200
+Cap de creus;Alt Empordà;3.3222069;42.319509;twitter;instagram;facebook;telegram;youtube;web;https://picsum.photos/324/200
+Palma de Mallorca;Palma de Mallorca;2.6231478;39.5312096;twitter;instagram;facebook;telegram;youtube;web;https://picsum.photos/324/200
+Flix;La Ribera d'Ebre;0.5366484;41.2294022;twitter;instagram;facebook;telegram;youtube;web;https://picsum.photos/324/200
+Barcelona;Barcelonès;2.1954494;41.3905194;twitter;instagram;facebook;telegram;youtube;web;https://picsum.photos/324/200
+Sant Joan de les Abadesses;Ripollès;2.2863717;42.2351839;twitter;instagram;facebook;telegram;youtube;web;https://picsum.photos/324/200
+Ripoll;Ripollès;2.176043;42.18974;twitter;instagram;facebook;telegram;youtube;web;https://picsum.photos/324/200
+Vic;Osona;2.2387488;41.9335941;twitter;instagram;facebook;telegram;youtube;web;https://picsum.photos/324/200
+Sort;Pallars Sobirà;1.1266764;42.4103922;twitter;instagram;facebook;telegram;youtube;web;https://picsum.photos/324/200
+La Seu d'Urgell;Alt Urgell;1.4512587;42.3562398;twitter;instagram;facebook;telegram;youtube;web;https://picsum.photos/324/200`,
     };
   },
   computed: {
@@ -28,6 +28,7 @@ La Seu d'Urgell;Alt Urgell;1.4512587;42.3562398;twitter;instagram;facebook;teleg
             telegram: f.split(";")[7],
             youtube: f.split(";")[8],
             web: f.split(";")[9],
+            foto: f.split(";")[10],
           },
           geometry: {
             type: "Point",
@@ -41,7 +42,6 @@ La Seu d'Urgell;Alt Urgell;1.4512587;42.3562398;twitter;instagram;facebook;teleg
   mounted() {},
   methods: {
     copyToClipboard() {
-console.log('copyToClipboard')
       var copyText = document.getElementById("pre");
 
       // Select the text field
@@ -62,7 +62,7 @@ console.log('copyToClipboard')
       <div class="help">
       Camps: 
 
-      municipi;comarca;lng;lat;twitter;instagram;facebook;telegram;youtube;web
+      municipi;comarca;lng;lat;twitter;instagram;facebook;telegram;youtube;web;foto
 
       
       </div>

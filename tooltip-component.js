@@ -13,6 +13,9 @@ export default {
     <div>
 		<div v-show="tooltip" id="tooltip" class="tooltip">
 			<div class="triangle"></div>
+			<div class="flex"  v-if="tooltip && tooltip.properties.foto">
+				<img :src="tooltip.properties.foto" class="foto"/>
+			</div>
 			<div class="flex">
 				<img class="logo-cup" src="./assets/LogoCUP.svg" />
 				

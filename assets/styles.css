@@ -2,6 +2,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'TT Norms';
+  color: #232324
 }
 .header{
   text-align: center;
@@ -177,7 +178,8 @@ h1{
   cursor: pointer;
   user-select: none;
   line-height: 26px;
-  padding-bottom: 0.5rem;
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
 }
 
 .custom-select .items div:hover {
@@ -206,6 +208,12 @@ pre{
 }
 .help{
   white-space: pre-wrap
+}
+.foto{
+  max-width: 100%;
+  margin-bottom: 16px;
+  max-height: 200px;
+  object-fit: cover;
 }
 @media only screen and (max-width: 600px) {
   h1 {
