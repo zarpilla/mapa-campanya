@@ -210,6 +210,7 @@ pre{
   white-space: pre-wrap
 }
 .foto{
+  min-width: 100%;
   max-width: 100%;
   margin-bottom: 16px;
   max-height: 200px;

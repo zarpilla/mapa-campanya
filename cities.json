@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Alcanar",
-        "comarca": "El Montsià",
+        "name": "Manlleu",
+        "comarca": "Osona",
         "twitter": "twitter",
         "instagram": "instagram",
         "facebook": "facebook",
@@ -17,113 +17,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "0.514695",
-          "40.523108"
+          "2.283578064",
+          " 41.9999391"
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cap de creus",
-        "comarca": "Alt Empordà",
+        "name": "Montesquiu",
+        "comarca": "Osona",
         "twitter": "twitter",
         "instagram": "instagram",
         "facebook": "facebook",
         "telegram": "telegram",
         "youtube": "youtube",
         "web": "web",
-        "foto": "https://picsum.photos/324/200"
+        "foto": "https://picsum.photos/324/201"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "3.3222069",
-          "42.319509"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Palma de Mallorca",
-        "comarca": "Palma de Mallorca",
-        "twitter": "twitter",
-        "instagram": "instagram",
-        "facebook": "facebook",
-        "telegram": "telegram",
-        "youtube": "youtube",
-        "web": "web",
-        "foto": "https://picsum.photos/324/200"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "2.6231478",
-          "39.5312096"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Flix",
-        "comarca": "La Ribera d'Ebre",
-        "twitter": "twitter",
-        "instagram": "instagram",
-        "facebook": "facebook",
-        "telegram": "telegram",
-        "youtube": "youtube",
-        "web": "web",
-        "foto": "https://picsum.photos/324/200"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "0.5366484",
-          "41.2294022"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Barcelona",
-        "comarca": "Barcelonès",
-        "twitter": "twitter",
-        "instagram": "instagram",
-        "facebook": "facebook",
-        "telegram": "telegram",
-        "youtube": "youtube",
-        "web": "web",
-        "foto": "https://picsum.photos/324/200"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "2.1954494",
-          "41.3905194"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Sant Joan de les Abadesses",
-        "comarca": "Ripollès",
-        "twitter": "twitter",
-        "instagram": "instagram",
-        "facebook": "facebook",
-        "telegram": "telegram",
-        "youtube": "youtube",
-        "web": "web",
-        "foto": "https://picsum.photos/324/200"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "2.2863717",
-          "42.2351839"
+          "2.209866277",
+          "42.10989357"
         ]
       }
     },
@@ -138,13 +54,55 @@
         "telegram": "telegram",
         "youtube": "youtube",
         "web": "web",
-        "foto": "https://picsum.photos/324/200"
+        "foto": "https://picsum.photos/324/202"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "2.176043",
-          "42.18974"
+          "2.19075318 ",
+          "42.20104761"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SANT QUIRZE DE BESORA",
+        "comarca": "Osona",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.22222543 ",
+          "42.10028539"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torelló",
+        "comarca": "Osona",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.260585184",
+          "42.04713193"
         ]
       }
     },
@@ -159,41 +117,1637 @@
         "telegram": "telegram",
         "youtube": "youtube",
         "web": "web",
-        "foto": "https://picsum.photos/324/200"
+        "foto": "https://picsum.photos/324/205"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "2.2387488",
-          "41.9335941"
+          "2.254264193",
+          "41.92996761"
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Sort",
-        "comarca": "Pallars Sobirà",
+        "name": "Perafita",
+        "comarca": "Osona",
         "twitter": "twitter",
         "instagram": "instagram",
         "facebook": "facebook",
         "telegram": "telegram",
         "youtube": "youtube",
         "web": "web",
-        "foto": "https://picsum.photos/324/200"
+        "foto": "https://picsum.photos/324/206"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "1.1266764",
-          "42.4103922"
+          "2.106999046",
+          "42.04226681"
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "La Seu d'Urgell",
+        "name": "Barcelona",
+        "comarca": "Barcelonès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.177241106",
+          "41.38240539"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Begues",
+        "comarca": "Baix Llobregat",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.924677961",
+          "41.33017397"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corbera de Llobregat",
+        "comarca": "Baix Llobregat",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.927701004",
+          "41.41610239"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cornellà de Llobregat",
+        "comarca": "Baix Llobregat",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.070159567",
+          "41.35517145"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Esparreguera",
+        "comarca": "Baix Llobregat",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.870708537",
+          "41.53896619"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "l'Hospitalet de Llobregat",
+        "comarca": "Barcelonès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/212"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.099712098",
+          "41.35945967"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olesa de Montserrat",
+        "comarca": "Baix Llobregat",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/213"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.893900541",
+          "41.54350594"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sant Boi de Llobregat",
+        "comarca": "Baix Llobregat",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/214"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.042704219",
+          "41.34752428"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sant Just Desvern",
+        "comarca": "Baix Llobregat",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.075560984",
+          "41.38572828"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Creixell",
+        "comarca": "Tarragonès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.440627272",
+          "41.16773933"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "la SELVA DEL CAMP",
+        "comarca": "Baix Camp",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.136882482",
+          "41.21515423"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reus",
+        "comarca": "Baix Camp",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/218"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.108491969",
+          "41.15501639"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tarragona",
+        "comarca": "Tarragonès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/219"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.254358212",
+          "41.11743424"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valls",
+        "comarca": "Alt Camp",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.247623975",
+          "41.28430482"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "les BORGES DEL CAMP",
+        "comarca": "Baix Camp",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.019587184",
+          "41.17203008"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sallent",
+        "comarca": "Bages",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.894674687",
+          "41.82406284"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manresa",
+        "comarca": "Bages",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.826928753",
+          "41.72305529"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santpedor",
+        "comarca": "Bages",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.839177662",
+          "41.78327337"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monistrol de Montserrat",
+        "comarca": "Bages",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.842759667",
+          "41.60979073"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Navàs",
+        "comarca": "Bages",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.879336762",
+          "41.89984083"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Súria",
+        "comarca": "Bages",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/227"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.753565253",
+          "41.83146668"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "OLVAN",
+        "comarca": "Berguedà",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.906973539",
+          "42.05699767"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moià",
+        "comarca": "Moianès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/229"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.096923027",
+          "41.81286912"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casserres",
+        "comarca": "Berguedà",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.841287149",
+          " 42.0143601"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Móra d'Ebre",
+        "comarca": "Ribera d'Ebre",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "0.641767088",
+          "41.09314292"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flix",
+        "comarca": "Ribera d'Ebre",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/232"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "0.549946451",
+          "41.23128181"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tortosa",
+        "comarca": "Baix Ebre",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "0.520955976",
+          "6 40.810905"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arenys de Mar",
+        "comarca": "Maresme",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.551624094",
+          "41.57953396"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arenys de Munt",
+        "comarca": "Maresme",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/235"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.53916522 ",
+          "41.61094994"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calella",
+        "comarca": "Maresme",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.65721784 ",
+          "41.61327142"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canet de mar",
+        "comarca": "Maresme",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.582425003",
+          "41.58848471"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SANTA COLOMA DE GRAMENET",
+        "comarca": "Barcelonès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/238"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.207934468",
+          "41.45214935"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malgrat de Mar",
+        "comarca": "Maresme",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/239"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.740742879",
+          "41.64550143"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mataró",
+        "comarca": "Maresme",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.444896864",
+          " 41.5398099"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Premià de Mar",
+        "comarca": "Maresme",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.35678569 ",
+          " 41.4898095"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SANT CEBRIÀ DE VALLALTA",
+        "comarca": "Maresme",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.599410003",
+          "3 41.619471"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sant Pol de Mar",
+        "comarca": "Maresme",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/243"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.621160222",
+          "41.60022259"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vilassar de Dalt",
+        "comarca": "Maresme",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/244"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.359477069",
+          "41.51699079"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banyoles",
+        "comarca": "Pla de l'Estany",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/245"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.763796776",
+          "42.11639909"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bescanó",
+        "comarca": "Gironès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/246"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.743365182",
+          "41.96540335"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blanes",
+        "comarca": "Selva",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/247"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.791605671",
+          "41.67403461"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caldes de Malavella",
+        "comarca": "Selva",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/248"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.809763769",
+          "41.83897595"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castelló d'Empúries",
+        "comarca": "Alt Empordà",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/249"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.074791957",
+          "42.25857657"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Celrà",
+        "comarca": "Gironès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.874392042",
+          "42.02655538"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cervià de Ter",
+        "comarca": "Gironès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.910632032",
+          "42.06723626"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colomers",
+        "comarca": "Baix Empordà",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/252"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.987081633",
+          "42.08438237"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Figueres",
+        "comarca": "Alt Empordà",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.960886614",
+          " 42.2672096"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FORNELLS DE LA SELVA",
+        "comarca": "Gironès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.810456867",
+          "41.93462692"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Girona",
+        "comarca": "Gironès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.824865628",
+          "41.98315544"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LA BISBAL D'EMPORDÀ",
+        "comarca": "Baix Empordà",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/256"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.038149687",
+          "41.95930116"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Llagostera",
+        "comarca": "Gironès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.891817464",
+          "41.82881009"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L'ESCALA",
+        "comarca": "Alt Empordà",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.133767625",
+          "42.12505878"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olot",
+        "comarca": "Garrotxa",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.484354623",
+          "42.18318266"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palamós",
+        "comarca": "Baix Empordà",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.129581349",
+          "41.84666081"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quart",
+        "comarca": "Gironès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.839936624",
+          "41.93976947"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bordils",
+        "comarca": "Gironès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/262"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.911498031",
+          "42.04404495"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Coloma de Farners",
+        "comarca": "Selva",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/263"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.662775243",
+          "41.86149583"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sarrià de Ter",
+        "comarca": "Gironès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.825219512",
+          "42.01709275"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verges",
+        "comarca": "Baix Empordà",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.046671526",
+          "42.06043381"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viladamat",
+        "comarca": "Alt Empordà",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/266"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.073817047",
+          "42.13275084"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VILAFRANCA DEL PENEDÈS",
+        "comarca": "Alt Penedès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/267"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.697222865",
+          "41.34649761"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SANT SADURNÍ D'ANOIA",
+        "comarca": "Alt Penedès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/268"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.787300544",
+          "41.42421161"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gelida",
+        "comarca": "Alt Penedès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.863167973",
+          "41.44092894"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SANT PERE DE RIUDEBITLLES",
+        "comarca": "Alt Penedès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/270"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.701326925",
+          "41.45319447"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VILOBÍ DEL PENEDÈS",
+        "comarca": "Alt Penedès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/271"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.663622541",
+          "41.39024459"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SANTA MARGARIDA I ELS MONJOS",
+        "comarca": "Alt Penedès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/272"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.663058723",
+          "41.32137517"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cunit",
+        "comarca": "Baix Penedès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.634836815",
+          "41.19809301"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sant Pere de Ribes",
+        "comarca": "Garraf",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.772114573",
+          "41.26230332"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vilanova i la Geltrú",
+        "comarca": "Garraf",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/275"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.726180234",
+          "41.22411114"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sitges",
+        "comarca": "Garraf",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.811838248",
+          "41.23508519"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cubelles",
+        "comarca": "Garraf",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/277"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.672526156",
+          "41.20825098"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VALLBONA D'ANOIA",
+        "comarca": "Anoia",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/278"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.709448701",
+          "41.51998537"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capellades",
+        "comarca": "Anoia",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.685814119",
+          "41.53091212"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Igualada",
+        "comarca": "Anoia",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/280"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.617581375",
+          "41.57871621"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sant Martí de Tous",
+        "comarca": "Anoia",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.523004887",
+          " 41.5606001"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piera",
+        "comarca": "Anoia",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/282"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.743364446",
+          " 41.5181362"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LA SEU D'URGELL",
         "comarca": "Alt Urgell",
         "twitter": "twitter",
         "instagram": "instagram",
@@ -201,13 +1755,1630 @@
         "telegram": "telegram",
         "youtube": "youtube",
         "web": "web",
-        "foto": "https://picsum.photos/324/200"
+        "foto": "https://picsum.photos/324/283"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "1.4512587",
-          "42.3562398"
+          "1.462430747",
+          "42.35809762"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salàs de Pallars",
+        "comarca": "Pallars Jussà",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "0.931464895",
+          "42.21254512"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ARSÈGUEL",
+        "comarca": "Alt Urgell",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/285"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.582876907",
+          "42.35010072"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oliana",
+        "comarca": "Alt Urgell",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.31194814 ",
+          "42.06615809"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balaguer",
+        "comarca": "Noguera",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/287"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "0.804588928",
+          "41.78971866"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lleida",
+        "comarca": "Segrià",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "0.626842574",
+          "41.61473059"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mollerussa",
+        "comarca": "Pla d'Urgell",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/289"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "0.894030377",
+          "41.62981069"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tàrrega",
+        "comarca": "Urgell",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.139054429",
+          "41.64628389"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tornabous",
+        "comarca": "Urgell",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.05285368 ",
+          "41.70153249"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alcarràs",
+        "comarca": "Segrià",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/292"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "0.524318402",
+          "41.56287362"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torres de Segre",
+        "comarca": "Segrià",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "0.512600714",
+          "41.53516991"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sant Guim de la Plana",
+        "comarca": "Segarra",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/294"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.324595827",
+          "41.76301707"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torrefeta i Florejacs",
+        "comarca": "Segarra",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/295"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.274869878",
+          "41.75443314"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sabadell",
+        "comarca": "Vallès Occidental",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/296"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.108551925",
+          "41.54637803"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terrassa",
+        "comarca": "Vallès Occidental",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/297"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.010294804",
+          "41.56295878"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SANT CUGAT DEL VALLÈS",
+        "comarca": "Vallès Occidental",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/298"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.082391608",
+          "41.46985344"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rubí",
+        "comarca": "Vallès Occidental",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/299"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.031335058",
+          "41.49348467"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CASTELLAR DEL VALLÈS",
+        "comarca": "Vallès Occidental",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.087635113",
+          "41.61855701"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PALAU-SOLITÀ I PLEGAMANS",
+        "comarca": "Vallès Occidental",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.178421008",
+          "41.58754343"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SANTA PERPÈTUA DE MOGODA",
+        "comarca": "Vallès Occidental",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.183444726",
+          "41.53457583"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BARBERÀ DEL VALLÈS",
+        "comarca": "Vallès Occidental",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.124669407",
+          "41.51579636"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castellbisbal",
+        "comarca": "Vallès Occidental",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.981226635",
+          "41.47487524"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sant Celoni",
+        "comarca": "Vallès Oriental",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.49251912 ",
+          "41.68996299"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Granollers",
+        "comarca": "Vallès Oriental",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.286822072",
+          "41.60808662"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Llinars del Vallès",
+        "comarca": "Vallès Oriental",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.404620012",
+          "41.63915185"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cardedeu",
+        "comarca": "Vallès Oriental",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.355346668",
+          "41.63829179"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LA GARRIGA",
+        "comarca": "Vallès Oriental",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.285838545",
+          "41.68530786"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FIGARÓ-MONTMANY",
+        "comarca": "Vallès Oriental",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/310"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.273365617",
+          "41.72169934"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MOLLET DEL VALLÈS",
+        "comarca": "Vallès Oriental",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.210310853",
+          "41.53541184"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LES FRANQUESES DEL VALLÈS",
+        "comarca": "Vallès Oriental",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.297161105",
+          "41.63630673"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cabrera de Mar",
+        "comarca": "Maresme",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/313"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.393308926",
+          "41.52601029"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CALONGE I SANT ANTONI",
+        "comarca": "Baix Empordà",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.075838423",
+          "41.86107184"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LA CANONJA",
+        "comarca": "Tarragonès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/315"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.178965575",
+          " 41.1229086"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SANT CUGAT SESGARRIGUES",
+        "comarca": "Alt Penedès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/316"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.75236167 ",
+          "41.36261514"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SANTA MARIA DE PALAUTORDERA",
+        "comarca": "Vallès Oriental",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/317"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.44609648 ",
+          "41.69298714"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alcanar",
+        "comarca": "Montsià",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/318"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "0.481966932",
+          " 40.5428638"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alcover",
+        "comarca": "Alt Camp",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.170205538",
+          "41.26263186"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CERDANYOLA DEL VALLÈS",
+        "comarca": "Vallès Occidental",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.140715332",
+          "41.49102342"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EL PAPIOL",
+        "comarca": "Baix Llobregat",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.010961168",
+          "41.43802425"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guissona",
+        "comarca": "Segarra",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.288303003",
+          "41.78464838"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ELS HOSTALETS DE PIEROLA",
+        "comarca": "Anoia",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/323"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.770752125",
+          "41.53379831"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LA NOU DE BERGUEDÀ",
+        "comarca": "Berguedà",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/324"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.885103187",
+          "42.16588441"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Premià de Dalt",
+        "comarca": "Maresme",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/325"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.34246115 ",
+          "41.50731101"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sant Gregori",
+        "comarca": "Gironès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.759594318",
+          "41.99032564"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sentmenat",
+        "comarca": "Vallès Occidental",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.136193226",
+          "41.60925884"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Solsona",
+        "comarca": "Solsonès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/328"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.517179245",
+          "41.99466233"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tiana",
+        "comarca": "Maresme",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/329"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.269019357",
+          "41.48172848"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torredembarra",
+        "comarca": "Tarragonès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.396064236",
+          "41.14606579"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monistrol de Calders",
+        "comarca": "Moianès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.014631919",
+          "41.76032259"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LLobera",
+        "comarca": "Solsonès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.463218405",
+          "41.92241632"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Torre de Fontaubella",
+        "comarca": "Priorat",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "0.864236158",
+          " 41.1244212"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sant Miquel de Campmajor",
+        "comarca": "Pla de l'Estany",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/334"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.684407451",
+          "42.12579254"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sant Jordi Desvalls",
+        "comarca": "Gironès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.953539082",
+          "42.07208893"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peralada",
+        "comarca": "Alt Empordà",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/336"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.00798995 ",
+          "42.30792626"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sales de Llierca",
+        "comarca": "Garrotxa",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/337"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.650126842",
+          "42.23606905"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Artés",
+        "comarca": "Bages",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/338"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.95486944 ",
+          "41.79813699"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berga",
+        "comarca": "Berguedà",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/339"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.845845087",
+          " 42.1037619"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calafell",
+        "comarca": "Baix Penedès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.568712715",
+          "41.20095546"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Campdevànol",
+        "comarca": "Ripollès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.168005107",
+          "42.22340907"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cava",
+        "comarca": "Alt Urgell",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/342"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.58440322 ",
+          "42.32535337"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ELS HOSTALETS DE PIEROLA",
+        "comarca": "Anoia",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/343"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.770752125",
+          "41.53379831"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L'ARBOÇ",
+        "comarca": "Baix Penedès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/344"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.603603923",
+          "41.26750259"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lliçà de Vall",
+        "comarca": "Vallès Oriental",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/345"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.239084658",
+          "41.58630762"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LLORENÇ DEL PENEDÈS",
+        "comarca": "Baix Penedès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/346"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.552917107",
+          "41.28293512"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masquefa",
+        "comarca": "Anoia",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/347"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.81185265 ",
+          "41.50189427"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mediona",
+        "comarca": "Alt Penedès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/348"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.611341144",
+          "41.47678877"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salou",
+        "comarca": "Tarragonès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.133565772",
+          "41.08117674"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SANT QUINTÍ DE MEDIONA",
+        "comarca": "Alt Penedès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/350"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.663146513",
+          "41.46234959"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Eulàlia de Ronçana",
+        "comarca": "Vallès Oriental",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.229205451",
+          "41.65234558"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Subirats",
+        "comarca": "Alt Penedès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/352"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.794652615",
+          "41.38241395"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torroella de Montgrí",
+        "comarca": "Baix Empordà",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/353"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.12637678 ",
+          "42.04101493"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vallgorguina",
+        "comarca": "Vallès Oriental",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/354"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.511522938",
+          "41.64725988"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VANDELLÒS I L'HOSPITALET DE L'INFANT",
+        "comarca": "Baix Camp",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "0.831528354",
+          "41.01992442"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ribes de Freser",
+        "comarca": "Ripollès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/356"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.167926705",
+          "42.30631215"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arbeca",
+        "comarca": "Garrigues",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/357"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "0.924966081",
+          "41.54223831"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vila-Seca",
+        "comarca": "Tarragonès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/358"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "1.144805793",
+          "41.11094923"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salt",
+        "comarca": "Gironès",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/359"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.792056075",
+          "41.97505395"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cadaqués",
+        "comarca": "Alt Empordà",
+        "twitter": "twitter",
+        "instagram": "instagram",
+        "facebook": "facebook",
+        "telegram": "telegram",
+        "youtube": "youtube",
+        "web": "web",
+        "foto": "https://picsum.photos/324/360"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3.275849152",
+          "42.28825155"
         ]
       }
     }
